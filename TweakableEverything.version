@@ -1,0 +1,23 @@
+{
+	"NAME"		: "TweakScale Unofficial",
+	"URL"		: "https://github.com/net-lisias-ksp/TweakScale/blob/master/TweakableEverything.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScale/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScale/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScale/CHANGES.md",
+	"VERSION":{
+		"MAJOR":666,
+		"MINOR":666,
+		"PATCH":666,
+		"BUILD":666
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":0,
+		"MINOR":0,
+		"PATCH":0
+		},
+	"KSP_VERSION_MAX":{
+		"MAJOR":99,
+		"MINOR":99,
+		"PATCH":99
+		}
+}
